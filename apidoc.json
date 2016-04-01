@@ -1,6 +1,6 @@
 {
-  "name": "KURYE ÇAĞIR API",
+  "name": "TITLE OF THE SERVICE",
   "version": "0.1.0",
-  "description": "KURYE ÇAĞIR API Dökümantasyonu.",
-  "sampleUrl": "http://46.101.198.49/"
+  "description": "Description of The Service",
+  "sampleUrl": "https://yourapidomain/"
 }

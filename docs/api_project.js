@@ -1,0 +1,1 @@
+define({  "name": "K  ÇAĞIR API",  "version": "0.1.0",  "description": "K  ÇAĞIR API Dökümantasyonu.",  "sampleUrl": "http://46.101.198.49/",  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2016-03-24T09:48:11.826Z",    "url": "http://apidocjs.com",    "version": "0.14.0"  }});
