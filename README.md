@@ -71,5 +71,7 @@ npm install apidoc -g
 check the full documentation here: http://apidocjs.com/#param-api
 
 create documentation:
-'php update-doc.php'
+```
+php update-doc.php
+```
 
