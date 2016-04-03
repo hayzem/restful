@@ -6,8 +6,8 @@
 
 class Services{
     
-    public $apidomain = "46.101.198.49";
-    public $apiurl = "http://46.101.198.49/api";
+    public $apidomain = "domain";
+    public $apiurl = "http://domain/apilocation";
 
     public $ssl = "OFF"; //ON
     public $jsonmod = "ON"; //OFF
@@ -29,7 +29,7 @@ class Services{
         array("key"=>"TESTKEY","token"=>"TESTTOKEN","apps"=>array(
             "local","order","delivery","location"
         )),
-        array("key"=>"JHEDE989LKJALKSJDEUBNEJKNEKJHBCID893_2JDDIUEIUE9234772CJD","token"=>"","apps"=>array(
+        array("key"=>"TESTKEY2","token"=>"TESTTOKEN2","apps"=>array(
             "users"
         ))
     );
