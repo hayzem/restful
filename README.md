@@ -3,6 +3,15 @@ Portable PHP restful server.
 
 This is an example of very basic modular php restful service. Don't use this as it's on production if you don't know what you are doing. This current version has some security issues and missing modules. This is an old version of the current restful service that I'm using.
 
+
+## Features
+
+- Authorization
+- Output switch JSON || RAW
+- Only accept SSL (ON/OFF)
+- Auto documentation
+
+
 ## Installation
 
 - Set domain and the url in services.php
@@ -53,11 +62,14 @@ This is an example of very basic modular php restful service. Don't use this as 
 
 ### Documentation
 
+install apidoc to your server
 
+```
+npm install apidoc -g
+```
 
-## Features
+check the full documentation here: http://apidocjs.com/#param-api
 
-- Authorization
-- Output switch JSON || RAW
-- Only accept SSL (ON/OFF)
-- Auto documentation
+create documentation:
+'php update-doc.php'
+
